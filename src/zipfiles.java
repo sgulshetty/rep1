@@ -12,6 +12,7 @@ public class zipfiles {
 	public static void main(String[] args) {
 		try {
 			//start of zip file code
+			//start of zip file code change 1
 			FileOutputStream fos = new FileOutputStream("atest.zip");
 			ZipOutputStream zos = new ZipOutputStream(fos);
 
