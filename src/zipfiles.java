@@ -15,6 +15,7 @@ public class zipfiles {
 			//start of zip file code change 1
 			//start of zip file code change 2
 			//start of zip file code change 3
+			//start of zip file code change 4
 			FileOutputStream fos = new FileOutputStream("atest.zip");
 			ZipOutputStream zos = new ZipOutputStream(fos);
 
